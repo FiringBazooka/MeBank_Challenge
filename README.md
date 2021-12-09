@@ -11,6 +11,7 @@ java -jar target\ME_Challenge-0.0.1-SNAPSHOT.jar C:\Users\sbhattip\Desktop\test.
 ```
 
 #Expected output
+
 Relative balance for the period is: $1027.25
 Number of transactions included is: 3
 
